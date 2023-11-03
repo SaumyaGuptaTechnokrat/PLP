@@ -1,3 +1,8 @@
+To run the project in local system we use a command terminal or powershell and write npm start to run on local system.
+And how to use working link 
+In the working link there a filter option and sort option for filtering by category and sort by price or title of the product.
+Below that there is product list and below that there is a pagination tabs for moving to another page of the products.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
